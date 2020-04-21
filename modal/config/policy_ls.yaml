@@ -1,0 +1,69 @@
+ARG:
+    title: "Argentina"
+    date: "2020-04-20"
+    CONTAINMENT:
+        QURNT:
+            - "The government has ordered complete confinement of the population from 20 March until 26 April. Police is controlling the streets and non-compliance with measures is prosecuted as criminal offence. Women and members of the LGBT community are explicitly exempt from the quarantine in case they need to report charges due to domestic violence."
+            - "All shops and public spaces are closed from 20 March until 26 April, only supermarkets, small groceries shops, hardware stores and pharmacies, certain parts of public administration as well as essential production and services activities remain open. As of 3 April, the following additional activities are excluded from the mandatory quarantine: distribution of construction materials, mining, forestry, manufacturing of wood, furniture, leather as well as agricultural or construction machines, imports and exports of already produced items, nuclear fuel production, maintenance and desinfection services, as well as a minimum service of banks and savings and credit cooperatives. Notary services are excluded as of 8 April, and repair services for cars, personal care services, and home delivery of IT and office equipment as of 11 April. As of 6 April, a specific certificate is necessary for all workers and other individuals allowed to leave their household during the confinement. As of 20 April, retail activities through online platforms, doctor visits, and payment service centres are exempted from the quarantine. In some rural areas, authorities have started to lift containment measures gradually."
+        TRAVEL:
+            - "All borders are entirely closed from 27 March until 26 April."
+    SUPPORT:
+        HEALTH:
+            - "The construction of 12 new emergency hospitals has been announced. The government is cooperating with domestic equipment producers and laboratories to increase their supply and has started decentralised testing throughout the country as of 28 March. It has purchased 200,000 reagents for large-scale testing activities and the health system disposes of 8500 Intensive Care Units, which are supposed to be increased to 10,000. All workers in the health sector will receive a monthly bonus of 75 USD from April until July 2020. Prices for personal care, drugs and medical products have been fixed until 20 May at their levels observed 6 March. Exports of medical equipment necessary for the treatment of COVID infected patients require prior authorisation from the government. As of 1 April, imports of medical supplies and vaccines are exempted from import duties until the end of the emergency situation. Social security contributions and some taxes for companies providing healthcare-related services are reduced during the health emergency situation."
+        FISC0: 
+            - "Public investment will be boosted by around 0.5% of GDP (USD 1.5 bn), mainly in road infrastructure, housing and school construction as well as infrastructure for tourism. Public credit subsidies for private housing construction will be reinstated and extended, providing opportunities to refurbish homes during confinement, with a focus on domestically produced materials. Other measures to mitigate the economic costs of the crisis for households and businesses are detailed below."
+            - "In sectors particularly affected by the lockdown such as entertainment, transport, restaurants and hotels, social security contributions and payroll taxes for employers are reduced or postponed. A specific committee has been created to establish objective criteria for accessing these benefits (6 April)."
+            - "- Social security contributions and some taxes for companies providing healthcare-related services are reduced during the health emergency situation."
+        FISC1:
+            - "- Households that live from informal activities, self-employment or domestic work and have suffered income losses will receive a one-off bonus of USD 150 in April."
+            - "- Conditional cash transfers to poor families are boosted by a one-off bonus of USD 50."
+            - "- Retirees and non-contributory pension beneficiaries with minimum pensions will obtain a USD 50 one-off bonus, while other benefits will be topped up to the new level of the regular minimum pension after including the bonus."
+BEL:
+    title: "Belgium"
+    date: "2020-04-17"
+    CONTAINMENT:
+        QURNT:
+            - "Containment measures were strengthened on March 18, which will remain in place until May 3. Citizens are required to stay at home, except for work and daily necessities (food shops, post office, bank, pharmacy, hospitals, etc.)."
+            - "Non-essential shops and retail outlets are closed from 18 March. Firms are obliged to organise telework and, if this is not possible for certain employees, social distancing will be strictly respected. If firms cannot meet these obligations, they must be closed temporarily. These measures will apply until May 3."
+        TRAVEL:
+            - "Non-essential travel outside Belgium is prohibited since March 18 until May 3."
+    SUPPORT:
+        HEALTH:
+            - "The federal government provides additional resources to grant a cash advance to hospitals, which will be regulated taking account of exceptional costs and loss of revenues (around EUR 1 billion, 0.2% of GDP). It was announced on March 20."
+        FISC0: 
+            - "* All payment deadlines for personal income tax, corporate income tax, VAT and withholding tax are automatically extended by two months."
+            - "These measures were first announced on 6 March, then strengthened on 20 March."
+            - "Information not available"
+        FISC1:
+            - "* Include Covid-19 as a reason for temporary unemployment due to force majeure."
+            - "* Companies affected by a decline in their sales for fear of contagion may grant their employees temporary unemployment for economic reasons."
+            - "* For those on temporary unemployment, benefits were raised from 65% to 70% of gross wages, supplemented by a lump-sum benefit of EUR 5.63 per day for those who are on temporary unemployment."
+ESP:
+    title: "Spain"
+    date: "2020-04-17"
+    CONTAINMENT:
+        QURNT:
+            - "* Mandated nation-wide quarantine for at least 15 days since March 15th, which has been further extended until April 11th and then to April 26th."
+            - "* Suspension of all non-essential work from March 30 to April 9, inclusive."
+FRA:
+    title: "Frace"
+    date: "2020-04-15"
+    CONTAINMENT:
+        QURNT:
+            - "As of 17 March (at noon), stringent containment measures to slow the epidemics have been implemented. The containment measures will apply at the national level at least until 11 May. Going outside has been restricted to the bare essentials (medical appointments, commuting, grocery shopping, imperative family reasons, exercising close to home). People most at risk (including elderly people) have been encouraged to self-isolate.
+Information not available"
+GBR:
+    title: "United Kingdom"
+    date: "2020-04-15"
+    CONTAINMENT:
+        QURNT:
+            - "Economy-wide lockdown since 23 March."
+            - "All schools, cafes, pubs, restaurants, cinemas, gyms and shops selling non-essential goods remain closed from 23 March. The public is allowed to leave home for work but only if that work cannot be carried out at home."
+ITA:
+    title: "Italy"
+    date: "2020-04-17"
+    CONTAINMENT:
+        QURNT:
+            - "On April 10, the government extended the lockdown to 3 May. People can only leave the home for prescribed, essential purposes. Movement out of the municipality of residence remains prohibited."
+            - "On March 23, movements restrictions reinforced, with fewer exceptions and a limited range of industrial and commercial activities permitted to continue operating,"
+            - "Industrial and commercial activity prohibited apart from those assessed as 'essential', with a list that includes about 30% of private employment and activity."

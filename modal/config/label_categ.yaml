@@ -1,0 +1,12 @@
+
+# top level
+CONTAINMENT: "Containment measures"
+SUPPORT: "Support measures"
+## sublevel
+## Containment
+QURNT: "Quarantine/Confinement"
+TRAVEL: "Travel bans/restrictions"
+## Support
+HEALTH: "Health"
+FISC0: "Fiscal measures - overall"
+FISC1: "Fiscal measures - people specific"
