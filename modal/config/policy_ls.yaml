@@ -1,5 +1,5 @@
 ARG:
-    title: "Argentina2"
+    title: "Argentina"
     date: "2020-04-20"
     CONTAINMENT:
         QURNT:
@@ -52,6 +52,21 @@ FRA:
         QURNT:
             - "As of 17 March (at noon), stringent containment measures to slow the epidemics have been implemented. The containment measures will apply at the national level at least until 11 May. Going outside has been restricted to the bare essentials (medical appointments, commuting, grocery shopping, imperative family reasons, exercising close to home). People most at risk (including elderly people) have been encouraged to self-isolate.
 Information not available"
+        TRAVEL:
+            - "Travel within towns, between regions and outside the country have been severely limited (need for a good reason and steep reduction of public transport availability). National long-distance transportation is being gradually reduced. EU and Schengen borders have been closed (for 30 days)."
+    SUPPORT:
+        HEALTH:
+            - "- Financial support has been provided to the healthcare system: EUR 260 million (0.01% of GDP) for hospitals have been allocated out of unspent reserves in the 2019 budget. Payments of EUR 3.5 billion (0.14% of GDP) from the 2020 allocation have been brought forward (April instead of May)"
+            - "- EUR 4.5 billion of additional funds for the purchase of equipment and other health expenses"
+            - "- Creation of an additional emergency fund of EUR 50 million for research on Covid-19"
+            - "- Overtime caps for health care professionals in hospitals have been removed, lifting the cap of 15 hours per month (i.e., 180 hours per year),"
+            - "- Reduced regulatory barriers to the use of telemedicine, such as easing restrictions on reimbursement of consultations done by telephone or videoconference, which currently limit its use"
+            - "- State requisition of protective masks stocks and future production to support in priority hospitals, town medicine and nurses"
+            - "- Immediate postponement of non-urgent surgeries"
+            - "- Mobilization of taxis and hotels for medical staff"
+            - "- Allowed pharmacists to make their hydro alcoholic solutions and regulated their prices, as well as overtook the national stock and production of protective masks."
+            - "- A military health service hospital has been deployed in Alsace"
+            - "- The military is helping move patients from the most affected regions to reduce local capacity needs."
 GBR:
     title: "United Kingdom"
     date: "2020-04-15"
