@@ -6,7 +6,11 @@ SUPPORT: "Support measures"
 ## Containment
 QURNT: "Quarantine/Confinement"
 TRAVEL: "Travel bans/restrictions"
+SCHOOL: "Closure of schools/universities"
+EVENT: "Cancellation of public events / Closure of public places"
 ## Support
 HEALTH: "Health"
 FISC0: "Fiscal measures - overall"
 FISC1: "Fiscal measures - people specific"
+FISC2: "Fiscal measures - company specific"
+MON: "Monetary policy / Macro-prudential regulation"
