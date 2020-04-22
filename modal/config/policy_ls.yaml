@@ -7,10 +7,6 @@ ARG:
             - "All shops and public spaces are closed from 20 March until 26 April, only supermarkets, small groceries shops, hardware stores and pharmacies, certain parts of public administration as well as essential production and services activities remain open. As of 3 April, the following additional activities are excluded from the mandatory quarantine: distribution of construction materials, mining, forestry, manufacturing of wood, furniture, leather as well as agricultural or construction machines, imports and exports of already produced items, nuclear fuel production, maintenance and desinfection services, as well as a minimum service of banks and savings and credit cooperatives. Notary services are excluded as of 8 April, and repair services for cars, personal care services, and home delivery of IT and office equipment as of 11 April. As of 6 April, a specific certificate is necessary for all workers and other individuals allowed to leave their household during the confinement. As of 20 April, retail activities through online platforms, doctor visits, and payment service centres are exempted from the quarantine. In some rural areas, authorities have started to lift containment measures gradually."
         TRAVEL:
             - "All borders are entirely closed from 27 March until 26 April."
-        SCHOOL:
-            - "All educational institutions have been closed, except for the introduction of a basic day-care service in nurseries and schools for the underage children of medical staff."
-        EVENT:
-            - "Public meetings have been banned. All public-access buildings and businesses have been closed, except those essential to people's everyday lives. Companies and administrations must offer teleworking options to their employees for all jobs that can be performed remotely. The second round of the municipal elections has been postponed."
     SUPPORT:
         HEALTH:
             - "The construction of 12 new emergency hospitals has been announced. The government is cooperating with domestic equipment producers and laboratories to increase their supply and has started decentralised testing throughout the country as of 28 March. It has purchased 200,000 reagents for large-scale testing activities and the health system disposes of 8500 Intensive Care Units, which are supposed to be increased to 10,000. All workers in the health sector will receive a monthly bonus of 75 USD from April until July 2020. Prices for personal care, drugs and medical products have been fixed until 20 May at their levels observed 6 March. Exports of medical equipment necessary for the treatment of COVID infected patients require prior authorisation from the government. As of 1 April, imports of medical supplies and vaccines are exempted from import duties until the end of the emergency situation. Social security contributions and some taxes for companies providing healthcare-related services are reduced during the health emergency situation."
@@ -22,27 +18,6 @@ ARG:
             - "- Households that live from informal activities, self-employment or domestic work and have suffered income losses will receive a one-off bonus of USD 150 in April."
             - "- Conditional cash transfers to poor families are boosted by a one-off bonus of USD 50."
             - "- Retirees and non-contributory pension beneficiaries with minimum pensions will obtain a USD 50 one-off bonus, while other benefits will be topped up to the new level of the regular minimum pension after including the bonus."
-        FISC2:
-            - "Broad-based support measures including:"
-            - "- postponing the payments of social security contributions and taxes, and a on case-by-case basis granting exemptions"
-            - "- Early repayment of corporate tax claims refundable in 2020 and accelerated processing of VAT credit claims"
-            - "- Cancellation of late fees for State and local authorities procurement contracts. The government has allowed companies to declare the epidemic as a cause of “force majeure” if it prevented them fulfilling their public procurement contracts."
-            - "- Removal of the ceiling for advances paid by the State on public contracts"
-            - "- Implementation of a €4bn fund to support the cash flow of start-ups"
-            - "- setting-up a \"solidarity fund\" with a lump-sum compensation corresponding to the loss of turnover over one year (up to €1500) for very small businesses (turnover under €1 million and annual taxable profit under €60,000), the self-employed, micro-entrepreneurs and liberal professions suffering a very sharp drop in turnover (loss of 70% of turnover over one year in March 2020) or subject to administrative closure. Additional flat-rate aid of €2000 for businesses with at least 1 employee threatened with bankruptcy."
-            - "- State-guaranteed treasury loan of up to 25% of annual turnover or 2 years of payroll for newly created or innovative companies. No repayment will be required in the first year; the company may choose to amortize the loan over a maximum period of five years."
-            - "- Temporary increase in state-ownership for some firms facing exceptional difficulties."
-            - "Scheme enabling the State to guarantee EUR 300 billion in cash loans. The guarantee may cover 70 to 90% of the amount of the loan, depending on the size of the company"
-            - "- Activation of public reinsurance on outstanding credit insurance up to EUR 10 billion, which will help companies to keep the credit insurance cover they need in order to maintain their activity"
-            - "- Setting up of reinsurance for short-term export credits with the \"Cap Francexport\" public reinsurance scheme, launched in October 2018, will be extended to support French exporters. The cap on outstanding amounts reinsured by the State has been doubled to EUR 2 billion, and eligibility has been extended to more destination countries."
-            - "- for VSEs and SMEs, water, gas or electricity bills and rents will be postponed for the time of the crisis."
-            - "- encouraging conflict mediation with a free, fast and reactive mediation service by a mediator within 7 days for any dispute to the implementation of a contract between private parties, even if tacit, or public procurement"
-            - "- Creation of a crisis unit for inter-company credit;"
-            - "- Mobilise credit mediation to support SMEs thanks to a public scheme to help any company that is experiencing difficulties with one or more financial institutions"
-        MON:
-            - "Information not available"
-            - "The French High Council for Financial Stability has deciced to fully release banks' countercyclical capital buffer on 18 March."
-            - "There is wider access to Banque de France refinancing for SMEs."
 BEL:
     title: "Belgium"
     date: "2020-04-17"
@@ -79,6 +54,10 @@ FRA:
 Information not available"
         TRAVEL:
             - "Travel within towns, between regions and outside the country have been severely limited (need for a good reason and steep reduction of public transport availability). National long-distance transportation is being gradually reduced. EU and Schengen borders have been closed (for 30 days)."
+        SCHOOL:
+            - "All educational institutions have been closed, except for the introduction of a basic day-care service in nurseries and schools for the underage children of medical staff."
+        EVENT:
+            - "Public meetings have been banned. All public-access buildings and businesses have been closed, except those essential to people's everyday lives. Companies and administrations must offer teleworking options to their employees for all jobs that can be performed remotely. The second round of the municipal elections has been postponed."
     SUPPORT:
         HEALTH:
             - "- Financial support has been provided to the healthcare system: EUR 260 million (0.01% of GDP) for hospitals have been allocated out of unspent reserves in the 2019 budget. Payments of EUR 3.5 billion (0.14% of GDP) from the 2020 allocation have been brought forward (April instead of May)"
@@ -108,6 +87,27 @@ Information not available"
             - "- Postponement of part of the unemployment insurance reform (around EUR 0.5 billion)"
             - "- encouraging the use of short time work schemes (by shortening procedures and a higher public coverage of firms' costs). Strengthening the short-time work scheme for employees by making it retroactive from the application. The take up of short-time work schemes has reached 760,000 employees (on 25 March)."
             - "Information not available"
+        FISC2:
+            - "Broad-based support measures including:"
+            - "- postponing the payments of social security contributions and taxes, and a on case-by-case basis granting exemptions"
+            - "- Early repayment of corporate tax claims refundable in 2020 and accelerated processing of VAT credit claims"
+            - "- Cancellation of late fees for State and local authorities procurement contracts. The government has allowed companies to declare the epidemic as a cause of “force majeure” if it prevented them fulfilling their public procurement contracts."
+            - "- Removal of the ceiling for advances paid by the State on public contracts"
+            - "- Implementation of a €4bn fund to support the cash flow of start-ups"
+            - "- setting-up a \"solidarity fund\" with a lump-sum compensation corresponding to the loss of turnover over one year (up to €1500) for very small businesses (turnover under €1 million and annual taxable profit under €60,000), the self-employed, micro-entrepreneurs and liberal professions suffering a very sharp drop in turnover (loss of 70% of turnover over one year in March 2020) or subject to administrative closure. Additional flat-rate aid of €2000 for businesses with at least 1 employee threatened with bankruptcy."
+            - "- State-guaranteed treasury loan of up to 25% of annual turnover or 2 years of payroll for newly created or innovative companies. No repayment will be required in the first year; the company may choose to amortize the loan over a maximum period of five years."
+            - "- Temporary increase in state-ownership for some firms facing exceptional difficulties."
+            - "Scheme enabling the State to guarantee EUR 300 billion in cash loans. The guarantee may cover 70 to 90% of the amount of the loan, depending on the size of the company"
+            - "- Activation of public reinsurance on outstanding credit insurance up to EUR 10 billion, which will help companies to keep the credit insurance cover they need in order to maintain their activity"
+            - "- Setting up of reinsurance for short-term export credits with the \"Cap Francexport\" public reinsurance scheme, launched in October 2018, will be extended to support French exporters. The cap on outstanding amounts reinsured by the State has been doubled to EUR 2 billion, and eligibility has been extended to more destination countries."
+            - "- for VSEs and SMEs, water, gas or electricity bills and rents will be postponed for the time of the crisis."
+            - "- encouraging conflict mediation with a free, fast and reactive mediation service by a mediator within 7 days for any dispute to the implementation of a contract between private parties, even if tacit, or public procurement"
+            - "- Creation of a crisis unit for inter-company credit;"
+            - "- Mobilise credit mediation to support SMEs thanks to a public scheme to help any company that is experiencing difficulties with one or more financial institutions"
+        MON:
+            - "Information not available"
+            - "The French High Council for Financial Stability has deciced to fully release banks' countercyclical capital buffer on 18 March."
+            - "There is wider access to Banque de France refinancing for SMEs."
 GBR:
     title: "United Kingdom"
     date: "2020-04-15"
